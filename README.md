@@ -5,20 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+Dans ce repo vous trouverez l'Exercie Doctolib que j'ai gentillement renomé! :) 
 
-* Configuration
+le but était de s'entrainer a la création de bases de données en relations et de s'approprier leur maniment.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+plusieurs modèles sont donc crées et modifiés au cours du projet!
