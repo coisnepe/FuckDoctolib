@@ -6,8 +6,8 @@ application up and running.
 Things you may want to cover:
 
 
-Dans ce repo vous trouverez l'Exercie Doctolib que j'ai gentillement renomé! :) 
+Dans ce repo vous trouverez l'exercice Doctolib que j'ai gentiment renommé ! :) 
 
-le but était de s'entrainer a la création de bases de données en relations et de s'approprier leur maniment.
+Le but était de s'entraîner à la création de bases de données en relations et de s'approprier leur maniement.
 
-plusieurs modèles sont donc crées et modifiés au cours du projet!
+Plusieurs modèles sont donc créés et modifiés au cours du projet !
